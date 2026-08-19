@@ -1,0 +1,46 @@
+[
+  {
+    "id": "keyboard-mechanical-rgb-01",
+    "name": "Keyboard Mechanical RGB Hotswap 61 Key",
+    "category": "keyboard",
+    "categoryLabel": "Keyboard",
+    "price": "Rp 249.000",
+    "image": "https://placehold.co/400x400?text=Keyboard",
+    "description": "Keyboard mechanical hotswap, cocok buat kerja dan gaming ringan. Switch bisa diganti tanpa solder.",
+    "shopeeLink": "https://shope.ee/GANTI_DENGAN_LINK_AFFILIATE_KAMU",
+    "tokopediaLink": "https://tokopedia.link/GANTI_DENGAN_LINK_AFFILIATE_KAMU"
+  },
+  {
+    "id": "powerbank-fast-charging-01",
+    "name": "Power Bank 10000mAh Fast Charging 22.5W",
+    "category": "power-bank",
+    "categoryLabel": "Power Bank",
+    "price": "Rp 159.000",
+    "image": "https://placehold.co/400x400?text=Power+Bank",
+    "description": "Power bank compact dengan fast charging, aman untuk laptop dan HP flagship.",
+    "shopeeLink": "https://shope.ee/GANTI_DENGAN_LINK_AFFILIATE_KAMU",
+    "tokopediaLink": "https://tokopedia.link/GANTI_DENGAN_LINK_AFFILIATE_KAMU"
+  },
+  {
+    "id": "webcam-1080p-01",
+    "name": "Webcam 1080p Autofocus dengan Mic",
+    "category": "webcam",
+    "categoryLabel": "Webcam",
+    "price": "Rp 189.000",
+    "image": "https://placehold.co/400x400?text=Webcam",
+    "description": "Webcam full HD untuk meeting dan streaming, autofocus dan noise-cancelling mic.",
+    "shopeeLink": "https://shope.ee/GANTI_DENGAN_LINK_AFFILIATE_KAMU",
+    "tokopediaLink": "https://tokopedia.link/GANTI_DENGAN_LINK_AFFILIATE_KAMU"
+  },
+  {
+    "id": "mouse-wireless-silent-01",
+    "name": "Mouse Wireless Silent Click Ergonomic",
+    "category": "mouse",
+    "categoryLabel": "Mouse",
+    "price": "Rp 89.000",
+    "image": "https://placehold.co/400x400?text=Mouse",
+    "description": "Mouse wireless dengan klik senyap, cocok buat kerja di ruang publik atau meeting.",
+    "shopeeLink": "https://shope.ee/GANTI_DENGAN_LINK_AFFILIATE_KAMU",
+    "tokopediaLink": "https://tokopedia.link/GANTI_DENGAN_LINK_AFFILIATE_KAMU"
+  }
+]
